@@ -13,5 +13,10 @@ public class Main {
         }
 
         System.out.printf("Fuck zuoouzouzozou");
+
+        System.out.printf("Fuck 3");
+        System.out.printf("Fuck 2");
+        System.out.printf("Fuck 666");
+
     }
 }
